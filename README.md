@@ -1,7 +1,7 @@
-# Data-Structure-Algorithm
+<h1 style =" border-bottom :none;"> Data-Structure-Algorithm </h1>
 
 # Searchin Alogrithm
-## 1. Binary Search
+<h2 {style=border-bottom: none;}> 1. Binary Search </h2>
 Binary search follows divide and conquer approach in which, the list is divided into two halves and the item is compared with the middle element of the list. If the match is found then, the location of middle element is returned otherwise, we search into either of the halves depending upon the result produced through the match.
 ## 2. Sequetnial Search
 Linear search is a very simple search algorithm. In this type of search, a sequential search is made over all items one by one. Every item is checked and if a match is found then that particular item is returned, otherwise the search continues till the end of the data collection.
